@@ -80,7 +80,3 @@ Detailed documentation that covers the app's architecture, design decisions, kno
 ---
 
 With this thorough exploration of "Scaling & Distribution," we highlight the steps and strategies to ensure the app's consistent performance, growth capability, and effective dissemination to its users.
-
----
-
-As for providing the complete documentation as a downloadable file, I am unable to directly create files or provide direct downloads through this platform. However, you can easily copy the markdown content provided and paste it into any markdown-compatible editor or tool to create the desired file format (like `.md` or `.txt`). If you need further assistance or formatting, please let me know!

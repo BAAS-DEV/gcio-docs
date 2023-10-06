@@ -49,6 +49,6 @@ In essence, BAAS Software proffers more than a software solution; we extend a co
 
 Warm regards,
 
-Tom Miller
+James Olabamiji & Tom Miller
 Director of Engineering  
 BAAS Software

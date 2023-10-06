@@ -2,6 +2,24 @@
 
 ## Project Charter
 
+Prior to the project, we do a comprehensive interview with you to determine everything about the project we will need to know.
+
+The charter will focus on:
+
+- Business Alignment
+- Goals
+- Strategy
+- Technology Stack
+- Pricing
+- Long Term Support
+- And more...
+
+This step is a requirement for us to begin your project. The planning we do at this stage greatly benefits the success, product satisfaction, and technological maturity of your application.
+
+We offer this as step before beginning, in case you are still deciding whether or not you want to start a project.
+
+Either way, you will have a clear and concise guiding document for you and your team.
+
 - **Amount**: $2,500
 
 ## Phase One
