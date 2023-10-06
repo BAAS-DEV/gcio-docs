@@ -11,7 +11,7 @@ const config = {
   // favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://guncontrolio.baas.dev",
+  url: "https://gcio.baas.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -42,8 +42,6 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
 
         theme: {
